@@ -1,0 +1,209 @@
+<table class="c6"><tr class="c3"><td class="c0" colspan="1" rowspan="1"><p class="c2"><span class="c1">x-coordinate</span></p></td><td class="c0" colspan="1" rowspan="1"><p class="c2"><span class="c1">Character</span></p></td><td class="c0" colspan="1" rowspan="1"><p class="c2"><span class="c1">y-coordinate</span></p></td></tr><tr class="c3"><td class="c0" colspan="1" rowspan="1"><p class="c2"><span class="c1">0</span></p></td><td class="c0" colspan="1" rowspan="1"><p class="c2"><span class="c1">█</span></p></td><td class="c0" colspan="1" rowspan="1"><p class="c2"><span class="c1">0</span></p></td></tr><tr class="c3"><td class="c0" colspan="1" rowspan="1"><p class="c2"><span class="c1">0</span></p></td><td class="c0" colspan="1" rowspan="1"><p class="c2"><span class="c1">█</span></p></td><td class="c0" colspan="1" rowspan="1"><p class="c2"><span class="c1">1</span></p></td></tr><tr class="c3"><td class="c0" colspan="1" rowspan="1"><p class="c2"><span class="c1">0</span></p></td><td class="c0" colspan="1" rowspan="1"><p class="c2"><span class="c1">█</span></p></td><td class="c0" colspan="1" rowspan="1"><p class="c2"><span class="c1">2</span></p></td></tr><tr class="c3"><td class="c0" colspan="1" rowspan="1"><p class="c2"><span class="c1">1</span></p></td><td class="c0" colspan="1" rowspan="1"><p class="c2"><span class="c1">▀</span></p></td><td class="c0" colspan="1" rowspan="1"><p class="c2"><span class="c1">1</span></p></td></tr><tr class="c3"><td class="c0" colspan="1" rowspan="1"><p class="c2"><span class="c1">1</span></p></td><td class="c0" colspan="1" rowspan="1"><p class="c2"><span class="c1">▀</span></p></td><td class="c0" colspan="1" rowspan="1"><p class="c2"><span class="c1">2</span></p></td></tr><tr class="c3"><td class="c0" colspan="1" rowspan="1"><p class="c2"><span class="c1">2</span></p></td><td class="c0" colspan="1" rowspan="1"><p class="c2"><span class="c1">▀</span></p></td><td class="c0" colspan="1" rowspan="1"><p class="c2"><span class="c1">1</span></p></td></tr><tr class="c3"><td class="c0" colspan="1" rowspan="1"><p class="c2"><span class="c1">2</span></p></td><td class="c0" colspan="1" rowspan="1"><p class="c2"><span class="c1">▀</span></p></td><td class="c0" colspan="1" rowspan="1"><p class="c2"><span class="c1">2</span></p></td></tr><tr class="c3"><td class="c0" colspan="1" rowspan="1"><p class="c2"><span class="c1">3</span></p></td><td class="c0" colspan="1" rowspan="1"><p class="c2"><span class="c1">▀</span></p></td><td class="c0" colspan="1" rowspan="1"><p class="c2"><span class="c1">2</span></p></td></tr></table><table class="c6">
+ <tr class="c3">
+  <td class="c0" colspan="1" rowspan="1">
+   <p class="c2">
+    <span class="c1">
+     x-coordinate
+    </span>
+   </p>
+  </td>
+  <td class="c0" colspan="1" rowspan="1">
+   <p class="c2">
+    <span class="c1">
+     Character
+    </span>
+   </p>
+  </td>
+  <td class="c0" colspan="1" rowspan="1">
+   <p class="c2">
+    <span class="c1">
+     y-coordinate
+    </span>
+   </p>
+  </td>
+ </tr>
+ <tr class="c3">
+  <td class="c0" colspan="1" rowspan="1">
+   <p class="c2">
+    <span class="c1">
+     0
+    </span>
+   </p>
+  </td>
+  <td class="c0" colspan="1" rowspan="1">
+   <p class="c2">
+    <span class="c1">
+     █
+    </span>
+   </p>
+  </td>
+  <td class="c0" colspan="1" rowspan="1">
+   <p class="c2">
+    <span class="c1">
+     0
+    </span>
+   </p>
+  </td>
+ </tr>
+ <tr class="c3">
+  <td class="c0" colspan="1" rowspan="1">
+   <p class="c2">
+    <span class="c1">
+     0
+    </span>
+   </p>
+  </td>
+  <td class="c0" colspan="1" rowspan="1">
+   <p class="c2">
+    <span class="c1">
+     █
+    </span>
+   </p>
+  </td>
+  <td class="c0" colspan="1" rowspan="1">
+   <p class="c2">
+    <span class="c1">
+     1
+    </span>
+   </p>
+  </td>
+ </tr>
+ <tr class="c3">
+  <td class="c0" colspan="1" rowspan="1">
+   <p class="c2">
+    <span class="c1">
+     0
+    </span>
+   </p>
+  </td>
+  <td class="c0" colspan="1" rowspan="1">
+   <p class="c2">
+    <span class="c1">
+     █
+    </span>
+   </p>
+  </td>
+  <td class="c0" colspan="1" rowspan="1">
+   <p class="c2">
+    <span class="c1">
+     2
+    </span>
+   </p>
+  </td>
+ </tr>
+ <tr class="c3">
+  <td class="c0" colspan="1" rowspan="1">
+   <p class="c2">
+    <span class="c1">
+     1
+    </span>
+   </p>
+  </td>
+  <td class="c0" colspan="1" rowspan="1">
+   <p class="c2">
+    <span class="c1">
+     ▀
+    </span>
+   </p>
+  </td>
+  <td class="c0" colspan="1" rowspan="1">
+   <p class="c2">
+    <span class="c1">
+     1
+    </span>
+   </p>
+  </td>
+ </tr>
+ <tr class="c3">
+  <td class="c0" colspan="1" rowspan="1">
+   <p class="c2">
+    <span class="c1">
+     1
+    </span>
+   </p>
+  </td>
+  <td class="c0" colspan="1" rowspan="1">
+   <p class="c2">
+    <span class="c1">
+     ▀
+    </span>
+   </p>
+  </td>
+  <td class="c0" colspan="1" rowspan="1">
+   <p class="c2">
+    <span class="c1">
+     2
+    </span>
+   </p>
+  </td>
+ </tr>
+ <tr class="c3">
+  <td class="c0" colspan="1" rowspan="1">
+   <p class="c2">
+    <span class="c1">
+     2
+    </span>
+   </p>
+  </td>
+  <td class="c0" colspan="1" rowspan="1">
+   <p class="c2">
+    <span class="c1">
+     ▀
+    </span>
+   </p>
+  </td>
+  <td class="c0" colspan="1" rowspan="1">
+   <p class="c2">
+    <span class="c1">
+     1
+    </span>
+   </p>
+  </td>
+ </tr>
+ <tr class="c3">
+  <td class="c0" colspan="1" rowspan="1">
+   <p class="c2">
+    <span class="c1">
+     2
+    </span>
+   </p>
+  </td>
+  <td class="c0" colspan="1" rowspan="1">
+   <p class="c2">
+    <span class="c1">
+     ▀
+    </span>
+   </p>
+  </td>
+  <td class="c0" colspan="1" rowspan="1">
+   <p class="c2">
+    <span class="c1">
+     2
+    </span>
+   </p>
+  </td>
+ </tr>
+ <tr class="c3">
+  <td class="c0" colspan="1" rowspan="1">
+   <p class="c2">
+    <span class="c1">
+     3
+    </span>
+   </p>
+  </td>
+  <td class="c0" colspan="1" rowspan="1">
+   <p class="c2">
+    <span class="c1">
+     ▀
+    </span>
+   </p>
+  </td>
+  <td class="c0" colspan="1" rowspan="1">
+   <p class="c2">
+    <span class="c1">
+     2
+    </span>
+   </p>
+  </td>
+ </tr>
+</table>
